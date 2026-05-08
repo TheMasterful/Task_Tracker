@@ -40,7 +40,7 @@ Heres some example json data from my task tracker for practice:
 [["0", " bake some chocolate chip cookies", " todo", " 2026-03-07 16:02:31.926211", " 2026-03-07 16:04:03.020095"]]
 
 
-License: CC BY-SA
+
 
 
 
