@@ -39,6 +39,8 @@ Note: the task also has createdAt and updatedAt datetimes. To find them, look in
 Heres some example json data from my task tracker for practice:
 [["0", " bake some chocolate chip cookies", " todo", " 2026-03-07 16:02:31.926211", " 2026-03-07 16:04:03.020095"]]
 
+Inspiration from: <https://roadmap.sh/projects/task-tracker>
+
 
 
 
